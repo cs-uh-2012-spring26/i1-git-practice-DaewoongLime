@@ -4,5 +4,5 @@ This article emphasizes that software engineering is a disciplined, systematic a
 
 Article checked for typos
 
-##comment from Muhammad Ali ALdribi (ma7752
+## Comment from Muhammad Ali ALdribi (ma7752
  - nice article

@@ -6,3 +6,6 @@ Article checked for typos
 
 ## Comment from Muhammad Ali ALdribi (ma7752
  - nice article
+
+## Comment from Jaehyeon Kim (jk7404)
+ - This article is a good introduction to the field of software engineering.

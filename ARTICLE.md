@@ -9,3 +9,7 @@ Article checked for typos
 
 ## Comment from Jaehyeon Kim (jk7404)
  - This article is a good introduction to the field of software engineering.
+
+## Comment from JoonHak Kim (jk7296)
+ - This article presents presents introductory elements of the Software Engineering.
+ 
